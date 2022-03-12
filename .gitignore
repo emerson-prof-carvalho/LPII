@@ -16,3 +16,8 @@
 # JVM logs, veja em http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/.metadata/
+.DS_Store
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
