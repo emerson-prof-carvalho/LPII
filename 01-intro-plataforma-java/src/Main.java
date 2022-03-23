@@ -28,7 +28,7 @@ public class Main {
 			leitor.close();
 			
 			// Podemos usar o operador '+' para concatenar strings
-			System.out.print("Olá " + nome + ", bem vindo ao mundo Java!");
+			System.out.print("Olá " + nome + ", bem vindo ao mundo Java!\n");
 		
 		// Em caso de algum erro dentro do bloco, o catch pega esse erro 
 		// como uma exceção. O bloco de código dentro das chaves do catch
