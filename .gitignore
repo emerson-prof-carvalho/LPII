@@ -21,3 +21,5 @@ replay_pid*
 .classpath
 .project
 .settings/org.eclipse.jdt.core.prefs
+*/.gitignore
+*/.settings/*
