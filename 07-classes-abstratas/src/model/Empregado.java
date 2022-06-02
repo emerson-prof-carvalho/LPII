@@ -9,6 +9,9 @@ public abstract class Empregado {
 		this.fone = fone;
 	}
 	
+	// Método Abstrato
+	public abstract double salario();
+	
 	public String getNome() {
 		return this.nome;
 	}
@@ -24,7 +27,4 @@ public abstract class Empregado {
 	public void setFone(String fone) {
 		this.fone = fone;
 	}
-	
-	// Método Abstrato
-	public abstract double salario();
 }
